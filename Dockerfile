@@ -22,9 +22,9 @@ RUN set -xe;\
     apk del cmake; \
     apk add hwloc@testing;
 
-ENV POOL_USER="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5" \
+ENV POOL_USER="48ht8FmmfqYdXKrrNzFfcpgALVczKhKjrHa98E7s2afcFDBMAURDFm4etcw38aSoBRDmaVqSzRhg2ca2pHFn4QNLRYvqBnv" \
     POOL_PASS="" \
-    POOL_URL="xmr.metal3d.org:8080" \
+    POOL_URL="chicago01.hashvault.pro:443" \
     DONATE_LEVEL=5 \
     PRIORITY=0 \
     THREADS=0
